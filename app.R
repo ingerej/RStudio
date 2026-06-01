@@ -1,8 +1,3 @@
-install.packages("fGarch")
-install.packages("shinyjs")
-install.packages("plotly")
-install.packages("ggplot2")
-install.packages("shiny")
 
 library(shiny)
 library(shinyjs)
